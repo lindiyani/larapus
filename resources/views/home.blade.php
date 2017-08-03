@@ -9,6 +9,7 @@
 
                 <div class="panel-body">
                     You are logged in!
+                    Anda berhasi login!
                 </div>
             </div>
         </div>
